@@ -3,7 +3,7 @@ Module 6 Challenge
 
 Hello and thank you for viewing my second attempt at this challenge. 
 
-I encountered an error when trying to view my code through Github. Please read the information below for the solution.
+I had encountered an error when trying to view my code through Github. If there is a problem when reading my code, please read the information below for the solution.
 
 Trouble-shooting Solution:
 If my code from Jupyter Notebook is not rendering on GitHub then please view my code via NBViewer. Copy and past my repository (https://github.com/wsabrinabriggs/python-api-challenge-2/tree/main/starter_code) into NBViewer (https://nbviewer.org/).
