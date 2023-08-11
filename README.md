@@ -15,3 +15,6 @@ FYI about NBviewer
 
 Coding Support
 1. linear regressions - https://www.youtube.com/watch?v=bmFVs5XkUbM
+2. drop null values - https://www.digitalocean.com/community/tutorials/pandas-dropna-drop-null-na-values-from-dataframe
+3. copy dataframes in pandas - https://www.w3schools.com/python/pandas/ref_df_copy.asp
+4. add an empty column in pandas - https://www.geeksforgeeks.org/how-to-add-empty-column-to-dataframe-in-pandas/
