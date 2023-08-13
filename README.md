@@ -11,7 +11,7 @@ If my code from Jupyter Notebook is not rendering on GitHub then please view my 
 FYI about NBviewer
 "A free tool maintained by the Jupyter project, NBviewer is an online service that renders static Jupyter Notebooks from URLs. If you supply NBviewer with a URL that points to a GitHub repository, you can navigate the repository structure from NBviewer and select notebooks to view."
 
-
+In step 4 of VacationPy, I increased the radius from 10,000 meters to 50,000 meters so that I would get more hotel names returned. I'm not sure why the api calls for nearest hotels returned so many "No hotels found". I worked with at tutor and we weren't able to understand why that is happening.
 
 Coding Support
 1. linear regressions - https://www.youtube.com/watch?v=bmFVs5XkUbM
